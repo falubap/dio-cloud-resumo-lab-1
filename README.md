@@ -1,5 +1,7 @@
 # DIO - Introdução a Computação em Nuvem
 
+Resumo das aulas do módulo **Introdução a computação em nuvem** e do laboratório **Localizando Serviços por Categoria**  do curso **Introdução a cloud com Azure** da **DIO**.
+
 ## O que é a computação em nuvem?
 
 A computação em nuvem é o fornecimento de serviços de computação pela Internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala
